@@ -14,7 +14,7 @@ This project is an **Optical Character Recognition (OCR)** system designed as a 
 | `models/yolov8_weights.pt`| YOLOv8 custom model weights for text area detection.                                        |
 | `models/crnn_ocr.pth`     | CRNN model weights for text recognition.                                                   |
 | `integrasi.py`            | Script to run inference for both detection and OCR on input images.                        |
-| `train_yolo.py`           | Script to train the YOLO model with a custom dataset.                                      |
-| `train_ocr.py`            | Script to train the OCR CRNN model.                                                        |
+| `custom-training.ipynb`   | Script to train the YOLO model with a custom dataset.                                      |
+| `train-v2.ipynb`          | Script to train the OCR CRNN model.                                                        |
 | `requirements.txt`        | List of required dependencies.                                                             |
 | `README.md`               | This documentation file.                                                                   |
