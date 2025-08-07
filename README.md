@@ -5,7 +5,7 @@ This project is an **Optical Character Recognition (OCR)** system designed as a 
 ## Dataset
 
 - **YOLO Dataset (for text area detection):** https://app.roboflow.com/plothole-detection/sample-z1q81/5(#)
-- **OCR Dataset (for text recognition):** [Link Y](#)
+- **OCR Dataset (for text recognition):** https://drive.google.com/drive/folders/1l0STrSRjec8TFqYEmueUiAa9eMvLIz0O?usp=sharing(#)
 
 ## File Descriptions
 
