@@ -18,3 +18,6 @@ This project is an **Optical Character Recognition (OCR)** system designed as a 
 | `train-v2.ipynb`              | Script to train the OCR CRNN model.                                                         | 
 | `textgenerate.ipynb`          | Script to generate synthetic data.                                                          |
 | `README.md`                   | This documentation file.                                                                    |
+
+## Demo
+![Demo GIF](demo.gif)
