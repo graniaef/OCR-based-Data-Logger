@@ -20,4 +20,4 @@ This project is an **Optical Character Recognition (OCR)** system designed as a 
 | `README.md`                   | This documentation file.                                                                    |
 
 ## Demo
-![Demo GIF](demo.gif)
+![Demo GIF](Demo.gif)
