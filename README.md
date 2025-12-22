@@ -2,6 +2,8 @@
 
 This project is an **Optical Character Recognition (OCR)** system designed as a *data logger*. It uses **YOLOv8** for text area detection and a **CRNN with CTC** for character recognition.
 
+https://jurnal.unpad.ac.id/jiif/article/view/64116 (in Indonesia)
+
 ## Dataset
 
 - **YOLO Dataset (for text area detection):** https://app.roboflow.com/plothole-detection/display-detection-jv7pz/5(#)
