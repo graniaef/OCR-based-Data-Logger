@@ -2,7 +2,7 @@
 
 This project is an **Optical Character Recognition (OCR)** system designed as a *data logger*. It uses **YOLOv8** for text area detection and a **CRNN with CTC** for character recognition.
 
-https://jurnal.unpad.ac.id/jiif/article/view/64116 (in Indonesia)
+https://jurnal.unpad.ac.id/jiif/article/view/64116 (in Bahasa Indonesia)
 
 ## Dataset
 
